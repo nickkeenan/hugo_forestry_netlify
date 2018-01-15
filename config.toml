@@ -1,0 +1,4 @@
+baseURL = "http://ragtag.gameflow.design/"
+languageCode = "en-us"
+title = "Website-o-Matic Hugo Test"
+theme ="freelancer"
